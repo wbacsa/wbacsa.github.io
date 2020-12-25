@@ -1,6 +1,6 @@
 # Wolfgang S. Bacsa 
 
-Research and teaching activity 
+CEMES-CNRS and University of Toulouse 
 
 ## Research
 
