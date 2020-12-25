@@ -2,7 +2,7 @@
 
 CEMES-CNRS and University of Toulouse 
 
-## Research
+## Research: new materials and physics at the nanomater scale 
 
 main research activities 
 
