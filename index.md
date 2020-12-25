@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+# Wolfgang S. Bacsa 
 
-You can use the [editor on GitHub](https://github.com/wbacsa/wbacsa.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Research and teaching activity 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Research
 
-### Markdown
+main research activities 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Recent Highlight
 
-```markdown
-Syntax highlighted code block
+- 9/2020: understanding optical interference and diffraction near surfaces <br />
+**Optics Near Surfaces and at the Nanometer Scale**, Wolfgang Bacsa, Revathi Bacsa, Tim Myers, **Springer Briefs in Physics** <br /> 
+(ISBN 978-3-030-58982-0)
 
-# Header 1
-## Header 2
-### Header 3
+### Nano Carbon
+- carbon nanotube polymer composites
+- carbon notubes electrodes
+- graphene bubbles
 
-- Bulleted
-- List
+### Nano Optics
+- optical intermediate field holography
+- interference substrate for optical observation of nanoscale systems
+- finite size effect of the focal spot
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+## Teaching
 
-[Link](url) and ![Image](src)
-```
+- electrodynamics
+- electrodynamics in matter
+- general mechanics
+- thermodynamics
+- wave optics
+- light and color
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wbacsa/wbacsa.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
